@@ -69,7 +69,7 @@ Algumas ideias para expandir e aprimorar este projeto no futuro incluem:
 ## 🧑‍💻 Autor
 
 * **[Michele Aparecida de Lima]**
-* [Meu Perfil no GitHub]([https://github.com/lihmamih])
-* [Meu Perfil no LinkedIn]([https://www.linkedin.com/in/michelelima85])
+* [Meu Perfil no GitHub](https://github.com/lihmamih)
+* [Meu Perfil no LinkedIn](https://www.linkedin.com/in/michelelima85)
 
 
